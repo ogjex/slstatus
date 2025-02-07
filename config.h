@@ -1,1 +1,0 @@
-../config-h/slstatus-arch-frame-config.h
