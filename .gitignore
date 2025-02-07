@@ -1,0 +1,6 @@
+#############################################
+# config.h so that the repo only adds patches 
+# config.h is a symlink to ../config-h/
+#############################################
+
+config.h
